@@ -15,21 +15,39 @@ Ideal para proyectos de bioingeniería, procesamiento de señales y prototipos b
 
 ---
 
-## 📚 Contenido
+## 01_primer_gui
 
-- **clase/** → Presentación teórica paso a paso.
-- **ejemplos/** → Códigos PyQt5 para ir probando y mejorando.
-- **recursos/** → Guías de instalación y resolución de problemas.
-- **arduino/** → Código Arduino que envía datos al serial.
-  
+Pequeña interfaz gráfica que muestra una ventana con un botón.  
+Ideal para entender la estructura básica de un programa en PyQt5.
+
+🛠️ Aprende:
+- Crear una ventana.
+- Agregar widgets básicos (botones).
+- Manejar eventos de click.
+
 ---
 
-## ⚙️ Requisitos
+## 02_plotear_imagen_filtrar
 
-- Python 3.x
-- PyQt5 (`pip install pyqt5`)
-- pyserial (`pip install pyserial`)
-- Arduino IDE
+Carga una imagen (ej: una RMN o una micrografía), la muestra en la interfaz y permite aplicarle filtros básicos.
+
+🛠️ Aprende:
+- Cargar y mostrar imágenes.
+- Usar `pyqtgraph` o `matplotlib` embebido.
+- Aplicar un filtro (ejemplo: media, gaussiano o sobel).
+
+---
+
+## 03_arduino_plot_en_vivo
+
+Conecta el Arduino vía puerto serie, lee una señal analógica en tiempo real y la plotea en la interfaz.
+
+🛠️ Aprende:
+- Comunicación serial (PySerial).
+- Adquisición de datos en tiempo real.
+- Ploteo dinámico de señales tipo ECG o EMG.
+
+---
 
 ---
 
