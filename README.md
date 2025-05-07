@@ -59,4 +59,4 @@ Conecta el Arduino vía puerto serie, lee una señal analógica en tiempo real y
 
 ---
 
-> Este proyecto te va a ayudar a mezclar hardware y software para visualizar señales de una forma simple y potente. ¡Animate a probar y modificar todo! 😎
+> Este proyecto te va a ayudar a mezclar hardware y software para visualizar señales de una forma simple y potente. Animate a probar y modificar todo!
