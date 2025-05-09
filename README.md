@@ -2,7 +2,7 @@
 
 Este repo contiene todo el material para aprender a armar interfaces gráficas en Python usando **PyQt5**, y conectar una **señal analógica de Arduino** para visualizarla en tiempo real o plotear una imagen y aplicarle filtros.
 
-Ideal para proyectos de bioingeniería, procesamiento de señales y prototipos biomédicos.
+Ideal para proyectos de bioingeniería, procesamiento de señales o imágenes y prototipos biomédicos.
 
 ---
 
@@ -11,7 +11,7 @@ Ideal para proyectos de bioingeniería, procesamiento de señales y prototipos b
 - Crear interfaces gráficas simples en Python (PyQt5).
 - Conectarte con un Arduino vía Serial (puerto COM).
 - Leer y graficar una señal analógica en vivo.
-- Pltear una imagen
+- Pltear una imagen y aplicarle filtros
 
 ---
 
