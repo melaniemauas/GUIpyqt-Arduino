@@ -53,7 +53,7 @@ Conecta el Arduino vía puerto serie, lee una señal analógica en tiempo real y
 
 ## 🚀 Cómo empezar
 
-[![Abrir presentación](https://img.shields.io/badge/Ver_Presentación-PDF-blue)](GUIpyqt-Arduino/Steps.pdf)
+[![Abrir presentación](https://img.shields.io/badge/Ver_Presentación-PDF-blue)](/Steps.pdf)
 
 1. Instalar las librerías necesarias.
 2. Cargar el código Arduino (`lectura_senal.ino`) en tu placa.
